@@ -16,6 +16,8 @@ var game = Fly.Game({
 <div id="fladdybirds"></div>	 	//宽800px，高600px
 ```
 
-## 效果如下
 
-![readme.png](.\readme.png)
+##  作弊（取消碰撞）
+
+F2键 ：取消碰撞
+F4键 ： 还原碰撞
