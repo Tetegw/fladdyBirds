@@ -18,4 +18,4 @@ var game = Fly.Game({
 
 ## 效果如下
 
-![readme.png](.\readme.png)
+![readme.png](readme.png)
